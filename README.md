@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ahmadafaransiddiqui@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19HLjpfXi-YBsODw-Ry-vresfMCA-jLbM/edit?usp=drive_link&ouid=101284674231757557035&rtpof=true&sd=true](https://docs.google.com/document/d/19HLjpfXi-YBsODw-Ry-vresfMCA-jLbM/edit?usp=drive_link&ouid=101284674231757557035&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/19HLjpfXi-YBsODw-Ry-vresfMCA-jLbM/edit?usp=drive_link&ouid=101284674231757557035&rtpof=true&sd=true]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
