@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faran Ahmad Siddiqui</h1>
 <h3 align="center">Developer & AI Enthusiast: Bridging the Gap between Code and Intelligence</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfaransiddiqui" alt="ahmadfaransiddiqui" /></a> </p>
-
 
 - 🌱 I’m currently learning AI/ML
 
