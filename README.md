@@ -4,13 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadfaransiddiqui" alt="ahmadfaransiddiqui" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web3**
-
-- 📝 I regularly write articles on [https://ahmadfaransiddiqui.blogspot.com/](https://ahmadfaransiddiqui.blogspot.com/)
+- 🌱 I’m currently learning AI/ML
 
 - 📫 How to reach me **ahmadafaransiddiqui@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Anw24UFuT81D_UB6Vdfn1OPy4I-z?e=eIfYdo](https://1drv.ms/b/s!Anw24UFuT81D_UB6Vdfn1OPy4I-z?e=eIfYdo)
+- 📄 Know about my experiences [https://docs.google.com/document/d/19HLjpfXi-YBsODw-Ry-vresfMCA-jLbM/edit?usp=drive_link&ouid=101284674231757557035&rtpof=true&sd=true](https://docs.google.com/document/d/19HLjpfXi-YBsODw-Ry-vresfMCA-jLbM/edit?usp=drive_link&ouid=101284674231757557035&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
